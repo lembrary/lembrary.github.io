@@ -16,6 +16,7 @@
         { "name": "Elite", "url": "static/themes/elite" }
     ],
     "startupOptions" : {
+	"server"="irc.freenode.net"
         "channel": "#kiwiirc-default",
         "nick": "kiwi-n?"
     },
