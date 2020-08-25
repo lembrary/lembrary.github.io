@@ -17,7 +17,7 @@
     ],
     "startupOptions" : {
 	"server":"irc.lembrary.com",
-	"port": 6697,
+	"port": 6667,
 	"tls": true,
 	"direct": true,
         "channel": "#lembrary",
