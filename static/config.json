@@ -19,7 +19,7 @@
 	// "server":"irc.lembrary.com",
 	// "port": 6667,
         "channel": "#lembrary",
-        "nick": ""
+        "nick": "player-n?"
     },
     "embedly": {
         "key": ""
