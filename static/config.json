@@ -1,6 +1,6 @@
 {
-    "windowTitle": "Lembrary",
-    "startupScreen": "Coding simplified.",
+    "windowTitle": "Kiwi IRC - The web IRC client",
+    "startupScreen": "welcome",
     "kiwiServer": "https://localdev.clients.kiwiirc.com/webirc/kiwiirc/",
     "restricted": false,
     "theme": "Default",
@@ -16,10 +16,8 @@
         { "name": "Elite", "url": "static/themes/elite" }
     ],
     "startupOptions" : {
-	// "server":"irc.lembrary.com",
-	// "port": 6667,
-        "channel": "#lembrary",
-        "nick": "player-n?"
+        "channel": "#kiwiirc-default",
+        "nick": "kiwi-n?"
     },
     "embedly": {
         "key": ""
