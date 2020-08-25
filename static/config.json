@@ -1,7 +1,7 @@
 {
     "windowTitle": "Kiwi IRC - The web IRC client",
     "startupScreen": "welcome",
- //   "kiwiServer": "https://www.lembrary.com",
+    "kiwiServer": "https://irc.lembrary.com",
     "restricted": false,
     "theme": "Default",
     "themes": [
@@ -16,8 +16,9 @@
         { "name": "Elite", "url": "static/themes/elite" }
     ],
     "startupOptions" : {
-	"server":"irc.freenode.net"
-        "channel": "#kiwiirc-default",
+	"server":"irc.lembrary.net",
+	"port":6667,
+        "channel": "#lembrary",
         "nick": "kiwi-n?"
     },
     "embedly": {
