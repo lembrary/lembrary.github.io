@@ -19,9 +19,9 @@
 	"server":"irc.lembrary.com",
 	"port": 6697,
 	"tls": true,
-	"direct": false,
+	"direct": true,
         "channel": "#lembrary",
-        "nick": "player-n?"
+        "nick": ""
     },
     "embedly": {
         "key": ""
