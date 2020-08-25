@@ -1,7 +1,7 @@
 {
     "windowTitle": "Lembrary",
     "startupScreen": "Coding simplified.",
-    "kiwiServer": "https://localdev.clients.kiwiirc.com/webirc/kiwiirc/",
+//    "kiwiServer": "https://localdev.clients.kiwiirc.com/webirc/kiwiirc/",
     "restricted": false,
     "theme": "Default",
     "themes": [
